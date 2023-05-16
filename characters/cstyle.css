@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+body{
+    background-color: darkred;
+}
+
+#mynavbar{
+    color: white;
+    font-family: 'Merienda', cursive;
+}
+nav .navbar-nav li a{
+    color: white !important;
+}
+#logo{
+    font-family: 'Yatra One', cursive;
+    font-size: xx-large;
+}
+#logopng{
+    width: 120px; height: 100px;
+}
+#zegar{
+    color: crimson;
+    margin-right: 100px;
+}
+
+
